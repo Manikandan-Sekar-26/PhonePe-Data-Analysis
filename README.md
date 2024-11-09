@@ -1,4 +1,4 @@
-# PhonePe-Data-Analysis
+# PhonePe-Data-Analysis in PowerBi
 ![image](https://github.com/user-attachments/assets/20c8122c-263f-4030-afac-0d111fc03750)
 ![image](https://github.com/user-attachments/assets/be94c65a-1657-4b10-a377-57396f1ff98a)
 ![image](https://github.com/user-attachments/assets/da8d20a1-70bd-4a36-acf3-317a8ec83dea)
